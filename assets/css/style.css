@@ -54,13 +54,12 @@
 }
 
 
-.country{
-  /* width: 20px; */
-}
 
-.country span, i{
+
+.country span{
   margin-left: 40px;
 }
+
 
 .cover-section {
   margin-top: 130px;
@@ -337,13 +336,13 @@
 }
 svg:not(:root).svg-inline--fa {
   /* overflow: visible; */
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
   color: #8cc5f9;
   border-radius: 20px;
-  /* margin-left: -32px; */
-  /* position: absolute; */
-  padding: 5px;
+  margin-left: -29px;
+    position: absolute;
+  padding: 2px;
   box-shadow: 0px 7px 22px -5px #888888;
 }
 
